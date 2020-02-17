@@ -1,2 +1,4 @@
 # bragging
-Code for a project on identifying 'bragging' words used in product descriptions and titles.
+Code for a project on identifying 'bragging' words used in 408,637 product descriptions and titles.
+
+This project aims to extract information from small blurbs and headlines to identify those that use bragging when advertising a product. Bragging is defined as 'excessively proud and boastful talk about one's achievements or possessions.' In product advertisement, superlatives like 'most' or 'best' are defined to fall under bragging. 
